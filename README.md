@@ -98,10 +98,7 @@ Open in browser:
 
 http://localhost:3000
 
-🔗 AI Studio App
 
-View the app in Google AI Studio:
-👉 https://ai.studio/apps/drive/1OlEdGFuk4D1QORZDxtVSOp38JBpvP_5f
 
 🎥 Demo
 
